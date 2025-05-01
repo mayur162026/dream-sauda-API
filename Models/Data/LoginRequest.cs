@@ -10,6 +10,7 @@ namespace Dreamsauda.Models
 
         public string? Username { get; set; }
         public string? Password { get; set; }
+         public string? Email { get; set; } // Added Email property
 
         // Navigation property for Teams
         public ICollection<Team> Teams { get; set; } = new List<Team>();

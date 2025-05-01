@@ -166,3 +166,5 @@ H:\Dream Sauda\Dreamsauda\obj\Debug\net9.0\Dreamsauda.genruntimeconfig.cache
 H:\Dream Sauda\Dreamsauda\obj\Debug\net9.0\ref\Dreamsauda.dll
 H:\Dream Sauda\Dreamsauda\bin\Debug\net9.0\package-lock.json
 H:\Dream Sauda\Dreamsauda\bin\Debug\net9.0\package.json
+H:\Dream Sauda\Dreamsauda\obj\Debug\net9.0\Dreamsauda.sourcelink.json
+H:\Dream Sauda\Dreamsauda\bin\Debug\net9.0\BCrypt.Net-Next.dll
